@@ -137,5 +137,3 @@ class _HomeState extends State<Home> {
     );
   }
 }
-
-// this is the home page. new new 
